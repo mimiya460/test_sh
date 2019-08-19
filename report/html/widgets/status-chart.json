@@ -1,0 +1,21 @@
+[ {
+  "uid" : "8116ca85923481a5",
+  "name" : "Testallure.test_passwor",
+  "time" : {
+    "start" : 1565938214796,
+    "stop" : 1565938214799,
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "75424e632fb2223e",
+  "name" : "Testallure.test_denglu",
+  "time" : {
+    "start" : 1565938214779,
+    "stop" : 1565938214794,
+    "duration" : 15
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

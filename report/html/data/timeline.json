@@ -1,0 +1,37 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "SKY-20190626TCA",
+    "children" : [ {
+      "name" : "4704-MainThread",
+      "children" : [ {
+        "name" : "Testallure.test_passwor",
+        "uid" : "8116ca85923481a5",
+        "parentUid" : "838b627496b375a352bb8cddf79791cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565938214796,
+          "stop" : 1565938214799,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Testallure.test_denglu",
+        "uid" : "75424e632fb2223e",
+        "parentUid" : "838b627496b375a352bb8cddf79791cf",
+        "status" : "passed",
+        "time" : {
+          "start" : 1565938214779,
+          "stop" : 1565938214794,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "838b627496b375a352bb8cddf79791cf"
+    } ],
+    "uid" : "5dc0af911891b44448d07302929f8b65"
+  } ]
+}
